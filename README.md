@@ -15,7 +15,7 @@ Aplicación para mostrar fotos y videos desde dispositivos USB en Raspberry Pi.
 
 1. Clonar repositorio:
 
-`git clone https://github.com/tu-usuario/carrusel-multimedia.git
+`git clone https://github.com/jjarque/carrusel-multimedia-raspberrypi3.git
 cd carrusel-multimedia`
 
 2. Ejecutar script de configuración:
