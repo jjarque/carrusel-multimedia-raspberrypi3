@@ -15,23 +15,23 @@ Aplicación para mostrar fotos y videos desde dispositivos USB en Raspberry Pi.
 
 1. Clonar repositorio:
 
-git clone https://github.com/tu-usuario/carrusel-multimedia.git
-cd carrusel-multimedia
+`git clone https://github.com/tu-usuario/carrusel-multimedia.git
+cd carrusel-multimedia`
 
 2. Ejecutar script de configuración:
 
-chmod +x setup_raspberry.sh
-./setup_raspberry.sh
+``chmod +x setup_raspberry.sh
+./setup_raspberry.sh``
 
 3. Ejecutar aplicación:
 
-python3 main.py
+`python3 main.py`
 
 
 ## Crear Ejecutable
 
-chmod +x crear_ejecutable.sh
-./crear_ejecutable.sh
+`chmod +x crear_ejecutable.sh
+./crear_ejecutable.sh`
 
 
 ## Uso
@@ -47,4 +47,3 @@ chmod +x crear_ejecutable.sh
 - Raspberry Pi con Raspberry Pi OS
 - Python 3.11 o superior
 - VLC media player
-
